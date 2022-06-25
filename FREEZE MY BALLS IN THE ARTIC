@@ -2,8 +2,6 @@ loadstring(game:GetObjects("rbxassetid://5425999987")[1].Source)() -- Load Libra
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuagon/friez/main/a"))() -- Frieza Avatar Loader
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tsuagon/DO-IT-COME-ON/main/FLING%20MY%20ASS"))() -- Fling Script
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 -- Player Stuff --
